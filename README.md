@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Npetto20
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning School, I am now in 2nd grade
-- 💞️ I’m looking to collaborate on My own OS
-- 📫 How to reach me: email
+<h1>Hello.</h1>
+<p>I am nolan. A very active/sleepy person, I love coding for no reason.</p>
+<h2>What I know</h2>
+<p>HTML5 and JS</p>
 
-<!---
-Npetto20/Npetto20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## if you want to talk to me, talk to me sleeping.
+
+
